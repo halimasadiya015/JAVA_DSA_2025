@@ -1,0 +1,18 @@
+package abstraction;
+
+import java.util.Scanner;
+
+import inheritance.main;
+
+public class Vowels_consonents {
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		System.out.print("enter your alphabet :");
+		char alphabet=sc.nextchar();
+		if(alphabet=a,e,i,o,u) {
+			System.out.println(alphabet+"is a vowel");
+		}
+		else
+			System.out.println(alphabet+"is a consonent");
+	}
+}

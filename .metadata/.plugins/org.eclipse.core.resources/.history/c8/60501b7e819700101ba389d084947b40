@@ -1,0 +1,14 @@
+package javaproject1;
+
+private class Program {
+	private class Prg2{
+		private static void main (String[]args){
+			int i=3;
+			if(i%2==0)
+				System.out.println("odd number")
+			else
+				System.out.println("even number")
+		}
+	}
+}
+
